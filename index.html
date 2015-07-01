@@ -4,31 +4,44 @@
 </head>
 <body style="background-color:#FF6666">
 
-	<div style="
+	<div onmouseover="MakeBold()" onmouseout="MakeLight()" id="aboutusdiv"
+	style="
 	float:left;
-	color:blue;
-	font-size:30pt;
+	color:red;
+	font-size:24pt;
 	background-color:Pink;
 	width:30%">
-		<a href="./AboutUs.html">About Us</a>
+		About Us
 	</div>
 
 	<div style="
 	float:left;
 	color:blue;
-	font-size:30pt;
+	font-size:24pt;
 	background-color:Pink;
 	width:30%">
-		<a href="./ContactUs.html">Contact Us</a>
+		<a href="./Careers.html">Careers</a>
 	</div>
 
 	<div style="
 	float:left;
 	color:blue;
-	font-size:30pt;
+	font-size:24pt;
 	background-color:Pink;
 	width:30%">
 		<a href="./News.html">News</a>
 	</div>
+
+	<script type="text/javascript">
+		function MakeBold(){
+			mydiv = document.getElementById('aboutusdiv')
+			mydiv.style.fontWeight = "900";
+		}
+		function MakeLight(){
+            mydiv = document.getElementById('aboutusdiv')
+            mydiv.style.fontWeight = "100";
+        }
+		
+	</script>
 </body>
 </html>
