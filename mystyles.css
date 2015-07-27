@@ -1,16 +1,21 @@
+#wrapper {
+}
+
+header {
+}
+
 body h1 {
 	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
 	font-size: 36px;
 }
 
-#main  {
-}
-#wrapper {
-}
-#header {
+main  {
+
 }
 
 ul li {
 	display: inline;
 	padding-left: 0px;
 }
+
+
