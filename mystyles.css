@@ -100,6 +100,7 @@ section {
 
 section ul li {
 	width: 150px;
+	height: 18px;
 	display: inline;
 	margin-left: 5px;
 	margin-right: 5px;
@@ -113,8 +114,8 @@ section ul li {
 	border-right: thin outset #8FE5D7;
 	border-bottom: thin outset #8FE5D7;
 	border-left: thin outset #8FE5D7;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding-top: 15px;
+	padding-bottom: 15px;
 	padding-left: 15px;
 	padding-right: 15px;
 }
@@ -148,6 +149,6 @@ footer {
 #feedback { font-size: 1.4em; }
 #selectable .ui-selecting { background: #FECA40; }
 #selectable .ui-selected { background: #F39814; color: white; }
-#selectable { list-style-type: none; margin: 0; padding: 0; width: 60%; }
-#selectable li { margin: 3px; padding: 0.4em; font-size: 1.4em; height: 18px; }
+#selectable { list-style-type: none; margin-left: 5px; margin-right: 5px; padding: 15px; width: 150px; }
+#selectable li { margin-left: 5px; margin-right: 5px; padding: 15px; font-size: 15px; height: 18px; }
 
