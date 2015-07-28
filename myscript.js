@@ -1,25 +1,24 @@
-
   $(function() {
     $( "#selectable" ).selectable();
   });
-
-$(function() {
+  
+  $(function() {
     $( "input[type=submit], a, button" )
       .button()
       .click(function( event ) {
         event.preventDefault();
       });
   });
-
+  
   $(function() {
     $( "#menu" ).menu();
   });
-
-    $(function() {
+  
+  $(function() {
     $( "#tabs" ).tabs();
   });
- 
- $(function() {
+  
+  $(function() {
     $( "#button" ).click(function() {
       $( "#effect" ).addClass( "newClass", 1000, callback );
     });
@@ -29,4 +28,8 @@ $(function() {
         $( "#effect" ).removeClass( "newClass" );
       }, 3000 );
     }
+  });
+  
+  $(function() {
+    $( "#accordion" ).accordion();
   });
