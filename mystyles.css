@@ -75,6 +75,8 @@ nav ul li {
 	padding-right: 25px;
 }
 
+.ui-menu { width: 75px; }
+
 main  {
 	width: 1120px;
 	float: left;
