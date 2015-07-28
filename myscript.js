@@ -1,24 +1,24 @@
-  $(function() {
+$(function() {
     $( "#selectable" ).selectable();
   });
-  
-  $(function() {
+
+$(function() {
     $( "input[type=submit], a, button" )
       .button()
       .click(function( event ) {
         event.preventDefault();
       });
   });
-  
-  $(function() {
+
+$(function() {
     $( "#menu" ).menu();
   });
-  
-  $(function() {
+
+$(function() {
     $( "#tabs" ).tabs();
   });
-  
-  $(function() {
+ 
+$(function() {
     $( "#button" ).click(function() {
       $( "#effect" ).addClass( "newClass", 1000, callback );
     });
@@ -29,7 +29,7 @@
       }, 3000 );
     }
   });
-  
-  $(function() {
+
+$(function() {
     $( "#accordion" ).accordion();
   });
