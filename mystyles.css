@@ -121,20 +121,12 @@ article {
 	display: inline;
 }
 
-article ul li img {
+article ul li {
 	list-style-type: none;
 	width: 150px;
-	margin-left: 5px;
-	margin-right: 5px;
-	text-align: center;
-	font:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #FFFFFF;
-	background-color: #353333;
-	font-weight: bold;
-	border-top: bold outset #8FE5D7;
-	border-right: bold outset #8FE5D7;
-	border-bottom: bold outset #8FE5D7;
-	border-left: bold outset #8FE5D7;
+	margin-left: auto;
+	margin-right: auto;
+	display: inline;
 }
 
 footer {
