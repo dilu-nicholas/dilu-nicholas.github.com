@@ -27,6 +27,6 @@ $(function() {
     function callback() {
       setTimeout(function() {
         $( "#effect" ).removeClass( "newClass" );
-      }, 1500 );
+      }, 3000 );
     }
   });
