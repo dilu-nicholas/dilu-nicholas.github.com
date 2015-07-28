@@ -17,3 +17,12 @@ $(function() {
         event.preventDefault();
       });
   });
+
+  $(function() {
+    $( "#menu" ).menu();
+  });
+  </script>
+  <style>
+  .ui-menu { width: 150px; }
+  
+  
