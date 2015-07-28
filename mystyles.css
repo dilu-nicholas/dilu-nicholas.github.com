@@ -149,6 +149,6 @@ footer {
 #feedback { font-size: 1.4em; }
 #selectable .ui-selecting { background: #FECA40; }
 #selectable .ui-selected { background: #F39814; color: white; }
-#selectable { list-style-type: none; margin-left: 5px; margin-right: 5px; padding: 15px; width: 150px; }
+#selectable { display: inline; list-style-type: none; margin-left: 5px; margin-right: 5px; padding: 15px; width: 150px; }
 #selectable li { margin-left: 5px; margin-right: 5px; padding: 15px; font-size: 15px; height: 18px; }
 
