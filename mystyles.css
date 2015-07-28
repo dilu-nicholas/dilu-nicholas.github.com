@@ -57,6 +57,7 @@ nav {
 }
 
 nav ul li {
+	width: 75px;
 	display: inline;
 	font-size: 12px;
 	color: #353333;
@@ -65,6 +66,8 @@ nav ul li {
 	border-right: thin outset #8FE5D7;
 	border-bottom: thin outset #8FE5D7;
 	border-left: thin outset #8FE5D7;
+	margin-left: 5px;
+	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
 	background-color: #353333;
