@@ -127,10 +127,10 @@ article ul li img {
 	color: #FFFFFF;
 	background-color: #353333;
 	font-weight: bold;
-	border-top: thin outset #8FE5D7;
-	border-right: thin outset #8FE5D7;
-	border-bottom: thin outset #8FE5D7;
-	border-left: thin outset #8FE5D7;
+	border-top: bold outset #8FE5D7;
+	border-right: bold outset #8FE5D7;
+	border-bottom: bold outset #8FE5D7;
+	border-left: bold outset #8FE5D7;
 }
 
 footer {
