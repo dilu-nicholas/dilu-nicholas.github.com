@@ -120,7 +120,7 @@ article {
 	display: inline;
 }
 
-article ul li {
+article ol li {
 	list-style-type: none;
 	width: 150px;
 	margin-left: auto;
