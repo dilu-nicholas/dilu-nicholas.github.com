@@ -130,6 +130,11 @@ article ul li {
 	display: inline;
 }
 
+article ul li img {
+	margin-top: 50px;
+	
+}
+
 #feedback { font-size: 15px; }
 #selectable .ui-selecting { background: #FECA40; }
 #selectable .ui-selected { background: #F39814; color: white; }
