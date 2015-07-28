@@ -25,3 +25,15 @@ $(function() {
     $(function() {
     $( "#tabs" ).tabs();
   });
+ 
+ $(function() {
+    $( "#button" ).click(function() {
+      $( "#effect" ).addClass( "newClass", 1000, callback );
+    });
+ 
+    function callback() {
+      setTimeout(function() {
+        $( "#effect" ).removeClass( "newClass" );
+      }, 1500 );
+    }
+  });
