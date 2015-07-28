@@ -1,8 +1,6 @@
 body {
-	background-color: #6C6C6C;
+	background-color: #AFAFAF;
 }
-
-
 
 body,td,th {
 	color: #FFFFFF;
@@ -41,7 +39,7 @@ a:active {
 	width: 1120px;
 	margin-right: auto;
 	margin-left: auto;	
-	background-color: #5D5D5D;
+	background-color: #424242;
 }
 
 header {
