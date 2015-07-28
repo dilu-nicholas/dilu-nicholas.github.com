@@ -150,5 +150,7 @@ footer {
 #selectable .ui-selecting { background: #FECA40; }
 #selectable .ui-selected { background: #F39814; color: white; }
 #selectable { display: inline; list-style-type: none; margin-left: 5px; margin-right: 5px; padding: 15px; width: 150px; }
-#selectable li { margin-left: 5px; margin-right: 5px; padding: 15px; font-size: 15px; height: 18px; }
+#selectable li { border-top: thin outset #8FE5D7; border-right: thin outset #8FE5D7; border-bottom: thin outset #8FE5D7; 
+		border-left: thin outset #8FE5D7;text-align: center; margin-left: 5px; margin-right: 5px; padding: 15px; 
+		font-size: 15px; height: 18px; font:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
