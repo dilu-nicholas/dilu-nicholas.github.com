@@ -122,10 +122,17 @@ article {
 	display: inline;
 }
 
+article ul li {
+	list-style-type: none;
+	width: 150px;
+	margin-left: auto;
+	margin-right: auto;
+	display: inline;
+}
+
 article ul li img {
 	list-style-type: none;
 	width: 150px;
-	display: inline;
 	margin-left: 5px;
 	margin-right: 5px;
 	text-align: center;
