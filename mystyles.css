@@ -158,6 +158,8 @@ article ul li img {
 	margin-top: 50px;
 }
 
+#tabs { display: inline;  }
+
 .toggler { width: 500px; height: 200px; position: relative; }
     #button { padding: .5em 1em; text-decoration: none; }
     #effect { width: 240px;  padding: 1em;  font-size: 1.2em; border: 1px solid #000; background: #eee; color: #333; }
@@ -187,6 +189,7 @@ button {
 
 footer {
 	clear: both;
+	position: fixed;
 	text-align: center;
 	margin-top: 50px;
 	margin-bottom: 50px;
