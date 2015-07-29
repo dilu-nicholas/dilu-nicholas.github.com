@@ -115,8 +115,8 @@ section {
 	width: 1120px;
 	list-style-type: none;
 	text-align: center;
-	margin-left: auto;
-	margin-right: auto;
+	margin-left: 100px;
+	margin-right: 100px;
 	margin-bottom: 50px;
 	display: inline;
 }
@@ -138,8 +138,8 @@ section ul li {
 	border-left: thin outset #8FE5D7;
 	padding-top: 15px;
 	padding-bottom: 15px;
-	padding-left: 25px;
-	padding-right: 25px;
+	padding-left: 50px;
+	padding-right: 50px;
 }
 
 article {
@@ -152,7 +152,7 @@ article {
 
 article ul li {
 	list-style-type: none;
-	width: 200px;
+	width: 150px;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 25px;
