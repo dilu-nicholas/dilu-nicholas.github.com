@@ -120,13 +120,13 @@ section {
 }
 
 section ul li {
-	width: 200px;
+	width: 175px;
 	float: left;
 	display: inline;
 	list-style: none;
 	text-align: center;
-	margin-left: 10px;
-	margin-right: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
 	font:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	color: #FFFFFF;
@@ -138,8 +138,8 @@ section ul li {
 	border-left: thin outset #8FE5D7;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	padding-left: 10px;
-	padding-right: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
 }
 
 article {
