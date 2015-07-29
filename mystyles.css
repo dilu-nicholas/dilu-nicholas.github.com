@@ -56,7 +56,7 @@ header {
 .myMenu li {
 	list-style:none;
 	float:left;
-	font:12px Arial, Helvetica, sans-serif #111;
+	font:11px Arial, Helvetica, sans-serif #111;
 }
 
 .myMenu li a:link, .myMenu li a:visited {
@@ -180,6 +180,11 @@ button {
 		border-left: thin outset #8FE5D7;text-align: center; margin-left: 5px; margin-right: 5px; padding: 15px; 
 		font-size: 15px; height: 18px; font:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
+.toggler { width: 500px; height: 200px; position: relative; }
+    #button { padding: .5em 1em; text-decoration: none; }
+    #effect { width: 240px; height: 135px; padding: 0.4em; position: relative; background: #fff; }
+    #effect h3 
+
 footer {
 	clear: both;
 	text-align: center;
@@ -189,5 +194,3 @@ footer {
 	padding-bottom: 25px;
 	font-size: 12px;
 }
-
-
