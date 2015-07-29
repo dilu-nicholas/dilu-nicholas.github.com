@@ -42,6 +42,7 @@ a:active {
 }
 
 header {
+	width: 1120px;
 	margin-right: auto;
 	margin-left: auto;
 	height: auto;
@@ -51,6 +52,7 @@ header {
 .myMenu {
 	width: 1120px;
 	float: left;
+	text-align: center;
 	margin-top:25px;
 	margin-bottom: 25px;
 	padding:0;
@@ -155,12 +157,12 @@ article ul li {
 	width: 150px;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 25px;
+	margin-top: 5px;
 	display: inline;
 }
 
 article ul li img {
-	margin-top: 50px;
+	margin-top: 15px;
 }
 
 #tabs {
