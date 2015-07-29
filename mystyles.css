@@ -121,10 +121,12 @@ section {
 
 section ul li {
 	width: 200px;
+	float: left;
 	display: inline;
+	list-style: none;
+	text-align: center;
 	margin-left: 10px;
 	margin-right: 10px;
-	text-align: center;
 	font:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	color: #FFFFFF;
