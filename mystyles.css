@@ -145,7 +145,7 @@ article {
 	list-style-type: none;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 25px;
+	margin-top: 15px;
 	display: inline;
 }
 
@@ -175,9 +175,9 @@ button {
 	text-align: center;
 	background-color: red;
 	text-align: center;
-	margin-left: 15px;
-	margin-right: 15px;
-	margin-top: 35px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 5px;
 	display: inline;
 
 }
