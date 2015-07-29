@@ -111,7 +111,7 @@ main  {
 }
 
 section {
-	width: 200px;
+	width: 1120px;
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
@@ -120,7 +120,7 @@ section {
 }
 
 section ul li {
-	width: 150px;
+	width: 200px;
 	height: 18px;
 	display: inline;
 	margin-left: 5px;
@@ -141,7 +141,7 @@ section ul li {
 }
 
 article {
-	width: 150px;
+	width: 1120px;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 25px;
