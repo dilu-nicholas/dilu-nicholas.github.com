@@ -152,8 +152,8 @@ article {
 article ul li {
 	list-style-type: none;
 	text-align: center;
-	margin-left: 0px;
-	margin-right: 0px;
+	margin-left: auto;
+	margin-right: auto;
 	margin-top: 5px;
 	margin-bottom: 5px;
 	display: inline;
