@@ -51,8 +51,10 @@ header {
 
 .myMenu {
 	width: 1120px;
-	float: left;
+	margin-left: auto;
+	margin-right: auto;
 	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	margin-top:25px;
 	margin-bottom: 25px;
 	padding:0;
@@ -106,11 +108,10 @@ main  {
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
-	margin-top: 25px;
-	margin-bottom: 25px;
+	margin-top: 50px;
+	margin-bottom: 50 px;
 	padding-top: 50px;
 	padding-bottom: 50px;
-	background-color: black;
 }
 
 section {
