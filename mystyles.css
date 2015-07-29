@@ -63,7 +63,7 @@ header {
 
 .myMenu li {
 	list-style:none;
-	float:left;
+	text-align: center;
 	font:11px Arial, Helvetica, sans-serif #111;
 }
 
