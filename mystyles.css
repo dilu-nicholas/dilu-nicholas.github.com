@@ -63,6 +63,7 @@ header {
 
 .myMenu li {
 	width: 1120px;
+	float: left;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
