@@ -51,8 +51,10 @@ header {
 }
 
 .myMenu {
-	margin: 0;
-	padding: 0
+	margin-left: auto;
+	margin-right: auto;
+	margin: 25px;
+	padding: 10px;
 }
 
 .myMenu li {
