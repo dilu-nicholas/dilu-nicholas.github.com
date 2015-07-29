@@ -110,6 +110,7 @@ main  {
 }
 
 section {
+	display: inline;
 	width: 150px;
 	margin-left: auto;
 	margin-right: auto;
