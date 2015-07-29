@@ -9,7 +9,7 @@ $(document).ready(function() {
 		function openSubMenu() {
 			$(this).find('ul').css('visibility', 'visible');	
 		};
-		
+		cancel: 'a'
 		function closeSubMenu() {
 			$(this).find('ul').css('visibility', 'hidden');
 		};
