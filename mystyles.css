@@ -49,6 +49,7 @@ header {
 }
 
 .myMenu {
+	width: 1120px;
 	float: left;
 	margin-top:25px;
 	margin-bottom: 25px;
@@ -121,7 +122,7 @@ section {
 }
 
 section ul li {
-	width: 200px;
+	width: 250px;
 	height: 18px;
 	display: inline;
 	margin-left: 10px;
@@ -151,7 +152,7 @@ article {
 
 article ul li {
 	list-style-type: none;
-	width: 150px;
+	width: 200px;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 25px;
@@ -162,7 +163,14 @@ article ul li img {
 	margin-top: 50px;
 }
 
-#tabs { display: inline; text-align: center; margin-right: auto; margin-left: auto; background-color: white; }
+#tabs {
+	width: 1120px;
+	display: inline; 
+	text-align: center; 
+	margin-right: auto; 
+	margin-left: auto; 
+	background-color: white;
+}
 
 #tabs-1 {
 	color: black;
@@ -186,19 +194,14 @@ article ul li img {
 
 }
 
-.toggler { width: 500px; height: 200px; position: relative; }
+.toggler { width: 1120px; height: 200px; position: relative; }
     #button { padding: .5em 1em; text-decoration: none; }
     #effect { width: 240px;  padding: 1em;  font-size: 1.2em; border: 1px solid #000; background: #eee; color: #333; }
 
 .newClass { text-indent: 40px; letter-spacing: .4em; width: 410px; height: 100px; padding: 30px; margin: 10px; font-size: 1.6em; }
 
 
-button {
-	border-top: thin outset #8FE5D7;
-	border-right: thin outset #8FE5D7;
-	border-bottom: thin outset #8FE5D7;
-	border-left: thin outset #8FE5D7;
-}
+
 
 #feedback { font-size: 15px; }
 #selectable .ui-selecting { background: #FECA40; }
