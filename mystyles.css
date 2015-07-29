@@ -152,10 +152,10 @@ article {
 }
 
 article ul li {
+	width: 150px;
 	display: inline;
 	list-style: none;
 	text-align: center;
-	width: 150px;
 }
 
 article ul li img {
