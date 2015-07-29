@@ -144,6 +144,7 @@ section ul li {
 
 article {
 	list-style-type: none;
+	text-align: center;
 	width: 150px;
 	margin-left: auto;
 	margin-right: auto;
@@ -153,9 +154,10 @@ article {
 
 article ul li {
 	list-style-type: none;
+	text-align: center;
 	width: 150px;
-	margin-left: auto;
-	margin-right: auto;
+	margin-left: 15px;
+	margin-right: 15px;
 	margin-top: 25px;
 	display: inline;
 }
