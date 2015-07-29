@@ -1,9 +1,8 @@
 body {
-	background-color: gray;
+	background-color: #6C6C6C;
 }
 body,td,th {
-	color: white;
-	background-color: gray;
+	color: #FFFFFF;
 }
 h1,h2,h3,h4,h5,h6 {
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
