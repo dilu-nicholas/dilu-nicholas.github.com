@@ -115,6 +115,7 @@ main  {
 section {
 	margin-left: auto;
 	margin-right: auto;
+	text-align: center;
 	display: inline;
 }
 
@@ -124,8 +125,8 @@ section ul li {
 	display: inline;
 	list-style: none;
 	text-align: center;
-	margin-left: 5px;
-	margin-right: 5px;
+	margin-left: auto;
+	margin-right: auto;
 	font:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	color: #FFFFFF;
@@ -147,6 +148,7 @@ article {
 	margin-right: auto;
 	margin-top: 15px;
 	display: inline;
+	text-align: center;
 }
 
 article ul li {
