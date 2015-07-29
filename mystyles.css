@@ -122,24 +122,24 @@ section {
 }
 
 section ul li {
-	width: 250px;
-	height: 18px;
+	width: 150px;
 	display: inline;
-	margin-left: 10px;
-	margin-right: 10px;
-	margin-top: 25px;
-	margin-bottom: 50px;
+	margin-left: 5px;
+	margin-right: 5px;
 	text-align: center;
-	font: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	color: #FFFFFF;
+	background-color: #353333;
 	font-weight: bold;
 	border-top: thin outset #8FE5D7;
 	border-right: thin outset #8FE5D7;
 	border-bottom: thin outset #8FE5D7;
 	border-left: thin outset #8FE5D7;
-	padding-top: 15px;
-	padding-bottom: 15px;
-	padding-left: 50px;
-	padding-right: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
 }
 
 article {
