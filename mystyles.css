@@ -153,6 +153,7 @@ article {
 }
 
 article ul li {
+	display: inline;
 }
 
 article ul li img {
