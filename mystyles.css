@@ -114,7 +114,6 @@ main  {
 }
 
 section {
-	width: 1120px;
 	list-style-type: none;
 	text-align: center;
 	margin-left: auto;
@@ -124,7 +123,7 @@ section {
 }
 
 section ul li {
-	width: 200px;
+	width: 250px;
 	height: 18px;
 	display: inline;
 	margin-left: 10px;
@@ -145,7 +144,7 @@ section ul li {
 }
 
 article {
-	width: 1120px;
+	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 25px;
@@ -154,9 +153,8 @@ article {
 
 article ul li {
 	list-style-type: none;
+	text-align: center;
 	width: 150px;
-	margin-left: auto;
-	margin-right: auto;
 	margin-top: 5px;
 	display: inline;
 }
