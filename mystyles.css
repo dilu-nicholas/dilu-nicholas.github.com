@@ -49,6 +49,7 @@ header {
 }
 
 .myMenu {
+	float: left;
 	margin-top:25px;
 	margin-bottom: 25px;
 	padding:0;
