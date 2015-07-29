@@ -143,7 +143,6 @@ section ul li {
 }
 
 article {
-	position: absolute;
 	list-style-type: none;
 	text-align: center;
 	width: 100px;
