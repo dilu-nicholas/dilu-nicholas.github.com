@@ -51,22 +51,13 @@ header {
 }
 
 .myMenu {
-	width: 1120px;
-	float: left;
-	display: inline;
-	margin-left: auto;
-	margin-right: auto;
-	text-align: center;
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
-	margin-top:25px;
-	margin-bottom: 25px;
-	padding:0;
+	margin: 0;
+	padding: 0
 }
 
 .myMenu li {
-	width: 1120px;
-	margin-left: auto;
-	margin-right: auto;
+	float: left;
+	list-style: none;
 	text-align: center;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
