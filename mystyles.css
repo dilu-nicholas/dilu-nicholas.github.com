@@ -165,6 +165,12 @@ article ul li img {
 	text-align: center;
 }
 
+button {
+	width: 150px;
+	text-align: center;
+	background-color: red;
+}
+
 #tabs {
 	width: 1120px;
 	display: inline; 
