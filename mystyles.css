@@ -143,7 +143,6 @@ section ul li {
 
 article {
 	list-style-type: none;
-	width: 100px;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 25px;
@@ -152,8 +151,9 @@ article {
 
 article ul li {
 	list-style-type: none;
-	margin-left: auto;
-	margin-right: auto;
+	text-align: center;
+	margin-left: 25px;
+	margin-right: 25px;
 	margin-top: 25px;
 	display: inline;
 }
