@@ -152,16 +152,15 @@ article {
 article ul li {
 	list-style-type: none;
 	text-align: center;
-	margin-left: 25px;
-	margin-right: 25px;
+	margin-left: 5px;
+	margin-right: 5px;
 	margin-top: 5px;
+	margin-bottom: 5px;
 	display: inline;
 }
 
 article ul li img {
 	display: inline;
-	margin-left: 5px;
-	margin-right: 5px;
 	text-align: center;
 	font:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #FFFFFF;
