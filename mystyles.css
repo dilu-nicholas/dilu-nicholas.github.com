@@ -36,6 +36,7 @@ a:active {
 #wrapper {
 	width: 1120px;
 	height: auto;
+	position: relative;
 	margin-right: auto;
 	margin-left: auto;	
 	background-color: black;
