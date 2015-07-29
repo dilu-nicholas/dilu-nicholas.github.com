@@ -153,12 +153,25 @@ article {
 
 article ul li {
 	display: inline;
+	list-style: none;
+	text-align: center;
 	width: 150px;
 }
 
 article ul li img {
-	margin-top: 10px;
+	width: 150px;
+	display: inline;
+	margin-left: 5px;
+	margin-right: 5px;
 	text-align: center;
+	font:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #FFFFFF;
+	background-color: #353333;
+	font-weight: bold;
+	border-top: thin outset #8FE5D7;
+	border-right: thin outset #8FE5D7;
+	border-bottom: thin outset #8FE5D7;
+	border-left: thin outset #8FE5D7;
 }
 
 button {
