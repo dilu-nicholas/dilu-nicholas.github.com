@@ -115,14 +115,14 @@ section {
 	width: 1120px;
 	list-style-type: none;
 	text-align: center;
-	margin-left: 100px;
-	margin-right: 100px;
+	margin-left: auto;
+	margin-right: auto;
 	margin-bottom: 50px;
 	display: inline;
 }
 
 section ul li {
-	width: 250px;
+	width: 200px;
 	height: 18px;
 	display: inline;
 	margin-left: 10px;
