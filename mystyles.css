@@ -102,6 +102,7 @@ header {
 
 main  {
 	width: 1120px;
+	float: left;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
@@ -112,7 +113,7 @@ main  {
 }
 
 section {
-	width: 200px;
+	width: 1120px;
 	list-style-type: none;
 	margin-left: auto;
 	margin-right: auto;
@@ -143,7 +144,7 @@ section ul li {
 }
 
 article {
-	list-style-type: none;
+	float: left;
 	text-align: center;
 	width: 100px;
 	margin-left: auto;
