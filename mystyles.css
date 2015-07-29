@@ -154,12 +154,11 @@ article ul li {
 	text-align: center;
 	margin-left: 25px;
 	margin-right: 25px;
-	margin-top: 25px;
+	margin-top: 5px;
 	display: inline;
 }
 
 article ul li img {
-	width: 150px;
 	display: inline;
 	margin-left: 5px;
 	margin-right: 5px;
