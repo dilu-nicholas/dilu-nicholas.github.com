@@ -221,9 +221,6 @@ button {
 
 .newClass { text-indent: 40px; letter-spacing: .4em; width: 410px; height: 100px; padding: 30px; margin: 10px; font-size: 1.6em; }
 
-
-
-
 #feedback { font-size: 15px; }
 #selectable .ui-selecting { background: #FECA40; }
 #selectable .ui-selected { background: #F39814; color: white; }
@@ -236,7 +233,7 @@ button {
     #button { padding: .5em 1em; text-decoration: none; }
     #effect { width: 240px; height: 135px; padding: 0.4em; position: relative; background: #fff; }
     #effect h3 
-
+</br>
 footer {
 	clear: both;
 	text-align: center;
