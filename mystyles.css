@@ -54,7 +54,7 @@ header {
 	margin-left: auto;
 	margin-right: auto;
 	margin: 25px;
-	padding: 10px;
+	padding: 5px;
 }
 
 .myMenu li {
@@ -102,7 +102,7 @@ header {
 
 main  {
 	width: 1120px;
-	float: left;
+	float:none;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
