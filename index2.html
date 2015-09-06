@@ -1,1 +1,39 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Dilu_My Calculator</title>
 
+
+
+<link href="dilu_mystyles.css" rel="stylesheet" type="text/css" media="screen">
+
+<script type="text/javascript" src="dilu_myscripts.js"></script>
+
+</head>
+
+<body>
+
+<div class="box">
+
+<div class="display"><input type="text" readonly size="23" id="d"></div>
+
+	<p><input type="button" class="button black" value="C" onclick='c("")'></p>
+
+	<p><input type="button" class="button black" value="7" onclick='v("7")'><input type="button" class="button black" value="8" onclick='v("8")'><input type="button" class="button black" value="9" onclick='v("9")'><input type="button" class="button pink" value="/" onclick='v("/")'><input type="button" class="button black" value=" x^2 " onclick="f_x_sqr();"></p>
+
+	<p><input type="button" class="button black" value="4" onclick='v("4")'><input type="button" class="button black" value="5" onclick='v("5")'><input type="button" class="button black" value="6" onclick='v("6")'><input type="button" class="button pink" value="*" onclick='v("*")'><input type= "button" class="button black" value="1/x" onclick="f_inv_x();">
+</p>
+
+	<p><input type="button" class="button black" value="1" onclick='v("1")'><input type="button" class="button black" value="2" onclick='v("2")'><input type="button" class="button black" value="3" onclick='v("3")'><input
+type="button" class="button pink" value="-" onclick='v("-")'></p>
+
+	<p><input type="button2" class="button2 white" value="0" onclick='v("0")'><input type="button" class="button black" value="." onclick='v(".")'><input
+type="button" class="button pink" value="+" onclick='v("+")'><input type="button" class="button3 orange" value="=" onclick='e()'></p>
+
+</div>
+
+</div>
+
+</body>
+</html>
