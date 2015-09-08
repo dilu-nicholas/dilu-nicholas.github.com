@@ -2,17 +2,13 @@
 
 var keynum = 0;
 
-function f_inv_x() {
-	with (document.calc) {
-		if(x.value != 0) {
-			x.value = 1 / x.value;
-			keynum = 0;
-		}
-		else {
-			alert("Division by zero.");
-		}
-	}
-}
+inverse.on("click", function () {
+	var val = textBox.val(),
+	text = parseFloat(val),
+	recip = eval(1 / text);
+	textBox.val(recip);
+	
+});
 
 function f_x_sqr() {
 	with(document.calc) {
