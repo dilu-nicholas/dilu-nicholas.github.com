@@ -1,7 +1,7 @@
 // JavaScript Document
 
 function reciprocal () {
-	alert(1/parseInt($("d").value));
+	$("d").val(1/parseInt);
 }
 
 
