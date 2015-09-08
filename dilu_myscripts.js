@@ -1,7 +1,9 @@
 // JavaScript Document
 
-function reciprocal(x) { alert ("1/x");
+function reciprocal () {
+	alert(1/parseInt($("d").value));
 }
+
 
 function c(val) {
  document.getElementById("d").value=val;
