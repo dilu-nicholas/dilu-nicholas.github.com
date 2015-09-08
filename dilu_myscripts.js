@@ -1,14 +1,6 @@
 // JavaScript Document
 
-var keynum = 0;
 
-inverse.on("click", function () {
-	var val = textBox.val(),
-	text = parseFloat(val),
-	recip = eval(1 / text);
-	textBox.val(recip);
-	
-});
 
 function f_x_sqr() {
 	with(document.calc) {
