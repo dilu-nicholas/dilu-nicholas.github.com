@@ -1,11 +1,7 @@
 // JavaScript Document
-function reciprocal() {
-	if(this.resultsCurrent != "") {
-		this.resultsCurrent = (1/parseFloat(this.resultsCurrent)) + "";
-		this.updateResults();
-	}
-}
 
+function reciprocal(x) { alert ("1/x");
+}
 
 function f_x_sqr() {
 	with(document.calc) {
