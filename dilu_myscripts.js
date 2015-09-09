@@ -1,11 +1,11 @@
 // JavaScript Document
 
 function f_inv_x() {
-	$("#d").val(1/parseInt($("#d").val()));
+	document.getElementById("d").value = 1/document.getElementById("d").value;
 }
 
 function f_x_sqr() {
-    document.getElementById("d").value = document.getElementById("d").value * document.getElementById("d").value
+    document.getElementById("d").value = document.getElementById("d").value * document.getElementById("d").value;
 }
 
 function c(val) {
