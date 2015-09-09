@@ -5,7 +5,7 @@ function f_inv_x() {
 }
 
 function f_x_sqr() {
-    document.getElementById("d").value =  document.getElementById("d").value * document.getElementById("d").value
+    document.getElementById("d").value = document.getElementById("d").value * document.getElementById("d").value
 }
 
 function c(val) {
