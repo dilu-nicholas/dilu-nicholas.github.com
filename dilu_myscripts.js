@@ -1,9 +1,12 @@
 // JavaScript Document
 
-function reciprocal () {
-	$("d").val(1/parseInt);
+function f_inv_x() {
+	$("#d").val(1/parseInt($("#d").val()));
 }
 
+function f_x_sqr() {
+    document.getElementById("d").value =  document.getElementById("d").value * document.getElementById("d").value
+}
 
 function c(val) {
  document.getElementById("d").value=val;
