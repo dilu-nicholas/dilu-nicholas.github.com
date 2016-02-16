@@ -127,7 +127,7 @@ section ul li {
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
-	font:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	color: #FFFFFF;
 	background-color: #353333;
@@ -164,7 +164,7 @@ article ul li {
 article ul li img {
 	display: inline;
 	text-align: center;
-	font:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	background-color: #353333;
 	font-weight: bold;
 	border-top: thin outset #8FE5D7;
@@ -181,7 +181,6 @@ button {
 	margin-right: 5px;
 	margin-top: 5px;
 	display: inline;
-
 }
 
 #tabs {
